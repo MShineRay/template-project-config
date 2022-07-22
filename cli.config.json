@@ -1,6 +1,6 @@
 {
   "name": "project template",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "choices": [
     {
       "value": "template-wap-vue3-vant",
@@ -66,6 +66,11 @@
       "value": "template-web-gulp",
       "url": "direct:https://github.com/MShineRay/template-web-gulp-mustache",
       "name": "template-web-gulp(gulp、jquery、require、mustache)"
+    },
+    {
+      "value":"template-ssr-vue3-ts-pinia-koa2-vite",
+      "url":"direct:https://github.com/MShineRay/template-ssr-vue3-ts-pinia-koa2-vite",
+      "name":"template-ssr-vue3-ts-pinia-koa2-vite"
     }
   ],
   "cache":".cache/projectTemplate",
