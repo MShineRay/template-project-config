@@ -1,6 +1,6 @@
 {
   "name": "project template",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "choices": [
     {
       "value": "template-wap-vue3-vant",
@@ -15,32 +15,32 @@
     {
       "value": "template-pc-vue2-elementui",
       "url": "direct:https://github.com/MShineRay/template-pc-vue2-elementui",
-      "name": "template-pc-vue2-elementui(pc、vue2、element-ui)"
+      "name": "template-pc-vue2-elementui(pc、vue2、element-ui2、webpack4)"
     },
     {
       "value": "vue-admin-template",
       "url": "direct:https://github.com/MShineRay/vue-admin-template",
-      "name": "template-pc-vue2-elementui(vue-admin-template)"
+      "name": "template-pc-vue2-elementui(vue-admin-template、pc、vue2、element-ui2、webpack4)"
     },
     {
       "value": "template-wap-vue2-vant",
       "url": "direct:https://github.com/MShineRay/template-wap-vue2-vant",
-      "name": "template-wap-vue2-vant(wap、vue2、vant)"
+      "name": "template-wap-vue2-vant(wap、vue2、vant、webpack4)"
     },
     {
       "value": "template-wap-vue2-mint",
       "url": "direct:https://github.com/MShineRay/template-wap-vue2-mint",
-      "name": "template-wap-vue2-mint(wap、vue2、mint)"
+      "name": "template-wap-vue2-mint(wap、vue2、mint、webpack4)"
     },
     {
       "value": "template-pc-vue3-elementui",
       "url": "direct:https://github.com/MShineRay/template-pc-vue3-elementui",
-      "name": "template-pc-vue3(pc、vue3、elementui)"
+      "name": "template-pc-vue3(pc、vue3、elementui、webpack4)"
     },
     {
       "value": "template-wap-vue3-vant",
       "url": "direct:https://github.com/MShineRay/template-wap-vue3-vant",
-      "name": "template-wap-vue3-vant(wap、vue3、vant)"
+      "name": "template-wap-vue3-vant(wap、vue3、vant、webpack4)"
     },
     {
       "value": "template-node-serve-express",
