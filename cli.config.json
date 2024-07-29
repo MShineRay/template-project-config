@@ -71,6 +71,11 @@
       "value":"template-ssr-vue3-ts-pinia-koa2-vite",
       "url":"direct:https://github.com/MShineRay/template-ssr-vue3-ts-pinia-koa2-vite",
       "name":"template-ssr-vue3-ts-pinia-koa2-vite"
+    },
+    {
+      "value":"template-ssr-nuxt2-elementui",
+      "url":"direct:https://github.com/MShineRay/template-ssr-nuxt2-elementui",
+      "name":"template-ssr-nuxt2-elementui"
     }
   ],
   "cache":".cache/projectTemplate",
