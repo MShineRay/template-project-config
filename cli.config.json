@@ -1,7 +1,12 @@
 {
   "name": "project template",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "choices": [
+    {
+      "value":"template-taro-vue3-nutui-webpack5",
+      "url":"direct:https://github.com/MShineRay/template-taro-vue3-nutui-webpack5",
+      "name":"template-taro-vue3-nutui-webpack5"
+    },
     {
       "value": "template-wap-vue3-vant",
       "url": "direct:https://github.com/MShineRay/template-wap-vue3-vant",
